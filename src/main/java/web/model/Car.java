@@ -44,4 +44,8 @@ public class Car {
                 ", year=" + year +
                 '}';
     }
+
+    public String CarToString() {
+        return manufactured + "/ " + model + "/ " + +year;
+    }
 }
