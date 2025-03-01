@@ -2,7 +2,7 @@ package web.service;
 
 import org.springframework.stereotype.Service;
 import web.model.Car;
-import web.model.DAO.CarDao;
+import web.DAO.CarDao;
 
 import java.util.List;
 
